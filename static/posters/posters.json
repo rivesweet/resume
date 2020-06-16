@@ -1,0 +1,11 @@
+{
+    "Status":200,
+    "Msg":"success",
+    "data": [
+        {"id": "0", "name": "'融创'", "idView": "static/posters/poster1.png"},
+        {"id":" 1", "name": "'高途'", "idView": "static/posters/poster2.png"},
+        {"id": "2", "name": "'三棵树'", "idView": "static/posters/poster3.png"},
+        {"id": "3", "name": "'招商'", "idView": "static/posters/poster4.png"},
+        {"id": "4", "name": "'武汉'", "idView": "static/posters/poster5.png"}
+      ]
+}

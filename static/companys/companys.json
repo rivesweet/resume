@@ -1,0 +1,15 @@
+{
+    "Status":200,
+    "Msg":"success",
+    "data":[
+    {"job":"物管", "place":"广州", "educated":"初中", "money":"4-6K", "view":"static/companys/company1.jpg"},
+    {"job":"客服", "place":"广州", "educated":"高中", "money":"3-5K", "view":"static/companys/company2.jpg"},
+    {"job":"厨师", "place":"广州", "educated":"高中", "money":"3-6K", "view":"static/companys/company3.jpg"},
+    {"job":"前端工程师", "place":"广州", "educated":"本科", "money":"8-10K", "view":"static/companys/company4.jpg"},
+    {"job":"店长", "place":"广州", "educated":"本科", "money":"5-7K", "view":"static/companys/company5.jpg"},
+    {"job":"后台开发", "place":"广州", "educated":"本科", "money":"8-10K", "view":"static/companys/company6.jpg"},
+    {"job":"科研工程师", "place":"广州", "educated":"硕士/博士", "money":"12-15K", "view":"static/companys/company7.jpg"},
+    {"job":"舞蹈老师", "place":"广州", "educated":"本科", "money":"4-5K", "view":"static/companys/company8.jpg"},
+    {"job":"建筑设计师", "place":"广州", "educated":"硕士/博士", "money":"7-10K", "view":"static/companys/company9.jpg"}
+  ]
+}
